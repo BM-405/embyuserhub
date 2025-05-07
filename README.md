@@ -87,8 +87,8 @@ EmbyUserHub 马小兔制作：
 如果您觉得本项目对您有所帮助，欢迎扫描以下二维码进行捐赠支持，让开发者能够提供更好的服务和功能：
 
 <div align="center">
-  <img src="image/捐赠/IMG_4253-0.JPG" alt="捐赠二维码1" width="120"/>
-  <img src="image/捐赠/IMG_4316.JPG" alt="捐赠二维码2" width="120"/>
+  <img src="image/捐赠/IMG_4253-0.JPG" alt="捐赠二维码1" width="150"/>
+  <img src="image/捐赠/IMG_4316.JPG" alt="捐赠二维码2" width="150"/>
 </div>
 
 ---
