@@ -87,7 +87,7 @@ python3 -c "import secrets; print(secrets.token_urlsafe(32))"
 ## 开发与贡献
 
 EmbyUserHub 马小兔制作：
-- 许可证需要伙食费支持提供
+- 许可证需支持提供
 
 ## 维护与支持
 
