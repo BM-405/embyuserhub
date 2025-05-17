@@ -61,7 +61,7 @@ docker pull mmbao/embyuserhub:3.0.8
 docker run -d \
   --name embyuserhub \
   --restart always \
-  -p 29045:29045 \
+  --network host \
   -v "/opt/embyuserhub/data:/app/data" \
   -v "/opt/embyuserhub/config:/app/config" \
   -e TZ=Asia/Shanghai \
