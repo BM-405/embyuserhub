@@ -66,7 +66,7 @@ EmbyUserHub提供了灵活的配置系统，配置的加载优先级如下：
 
 ```bash
 # 拉取最新镜像
-docker pull mmbao/embyuserhub:3.0.8
+docker pull mmbao/embyuserhub:3.1.0
 
 # 运行容器
 docker run -d \
@@ -79,7 +79,7 @@ docker run -d \
   -e FLASK_SECRET_KEY=C1J-xvthNycHDWODaHZdJMEO--ToI5j6q3G4fKJyThc \
   -e ENABLE_SECURITY_ACCESS=True \
   -e CRON_MODE=thread \
-  mmbao/embyuserhub:3.0.8
+  mmbao/embyuserhub:3.1.0
 ```
 ## Flask Secret Key 配置说明
 
