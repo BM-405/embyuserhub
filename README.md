@@ -121,7 +121,7 @@ EmbyUserHub 马小兔制作：
 ## 维护与支持
 
 - **作者**：马小兔
-- **联系方式**：mm.mybao@gmail.com
+- **联系方式**：maxiaotu.mm@gmail.com
 - **Docker Hub**：mmbao/embyuserhub
 
 ## 支持与捐赠
