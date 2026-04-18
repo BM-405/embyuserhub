@@ -20,8 +20,8 @@ EmbyUserHub 是一款专为 Emby / Jellyfin 服务器管理员开发的用户管
 ## 官方渠道
 
 - Docker Hub: https://hub.docker.com/r/mmbao/embyuserhub
-- 授权与文档: https://embyuserhub.cc
-- 部署文档: https://license.embyuserhub.cc/docs/EmbyUserHub-Docker
+- 授权与文档: https://license.embyuserhub.cc/buy
+- 部署文档: https://license.embyuserhub.cc/docs
 
 ## 版本说明
 
