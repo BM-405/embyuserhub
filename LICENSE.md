@@ -74,4 +74,5 @@ filing a DMCA takedown against infringing repositories.
 ---
 
 Project: https://github.com/maxiaotu/EmbyUserHub-MaXiaoTu  
-Contact: https://embyuserhub.cc
+Purchase: https://license.embyuserhub.cc/buy  
+Docs: https://license.embyuserhub.cc/docs
